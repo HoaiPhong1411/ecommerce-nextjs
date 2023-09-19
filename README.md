@@ -1,13 +1,3 @@
-# NEXTJS CORE PROJECT
-***-----Author: TruongDN-----***
-
-- **_Luôn viết mã sạch_**
-- **_Nghĩ trước khi code_**
-- **_Code có tâm_**
-- **_Sẵn sàng dạy nhau_**
-- **_Trách nhiệm với công việc_**
-- **_Chủ động thảo luận_**
-
 ## Commit Rules
 
 Must create branch follow below rules:
